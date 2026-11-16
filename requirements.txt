@@ -1,0 +1,10 @@
+streamlit
+plotly
+onnxruntime
+pillow
+numpy
+requests
+gTTS
+edge-tts
+pymysql
+segno
